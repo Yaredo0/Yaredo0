@@ -1,56 +1,64 @@
-# Hi, I'm Yared! 👋
+# Hi, I'm Yared! 👋  
 
-I am a passionate M.Tech SE student at ALX, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I’m an aspiring **Full-Stack Developer** and **Data Science learner** at **ALX**, passionate about building creative solutions and exploring the intersection of data, design, and technology.  
+
+My journey into software engineering began with curiosity — *how ideas transform into products that change lives*. Since then, I’ve been diving deep into **frontend**, **backend**, and **data science**, learning to craft user-friendly applications and intelligent systems.  
 
 ![Yaredo0's Stats](https://github-readme-stats.vercel.app/api?username=Yaredo0&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-## 🚀 About Me
+---
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
+## 🚀 About Me  
 
-## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
+- 🌱 I’m currently learning **Frontend, Backend, and Data Science** through the **ALX Software Engineering Program**  
+- 💡 I’m passionate about **building scalable web applications** and **data-driven tools** that solve real-world problems  
+- 🎯 My vision is to become a **versatile developer** who bridges the gap between software engineering and data insights  
+- 💬 Ask me about **JavaScript, Python, React, Django, and data analysis**  
+- ⚡ Fun fact: I love simplifying complex tech ideas through storytelling and visuals  
 
+---
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+## 🧠 Currently Exploring  
 
-## 🌱 Currently Exploring
+- **Frontend:** React, Tailwind CSS, and responsive design  
+- **Backend:** Node.js, Django, RESTful APIs  
+- **Data Science:** Pandas, NumPy, Matplotlib, and Machine Learning  
+- **Tools:** Git, Docker, PostgreSQL, and GitHub Actions  
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
+---
 
- ## 🏆 Achievements
+## 🧰 Tech Stack  
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,react,redux,nodejs,express,django,tailwind,postgres,mongodb,git,github,figma)](https://skillicons.dev)
 
+---
 
-## 📬 Get in Touch
+## 🧩 Featured Projects  
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| [📘 Portfolio Website](#) | A personal website showcasing my projects and growth. | React, Tailwind |
+| [💡 Data Insights Dashboard](#) | Interactive dashboards for data visualization. | Python, Flask, Plotly |
+| [🔐 Authentication API](#) | Secure authentication system for modern web apps. | Node.js, MongoDB |
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+---
 
+## 🏆 Achievements  
 
+- ✅ Completed **ALX Foundations** and **Software Engineering Sprints**  
+- 🌟 Participated in **Hacktoberfest 2024**, contributing to open source projects  
+- 🧠 Built and deployed full-stack and data-driven projects  
 
-<!--
+---
 
-Here are some ideas to get you started:
+## 📬 Get in Touch  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [LinkedIn](https://www.linkedin.com/in/yared-aysheshim)  
+- [X (Twitter)](https://x.com/)  
+- [Instagram](https://www.instagram.com/)  
+- [Telegram](https://t.me/yourusername)  
+- 📧 **Email:** youremail@example.com  
+
+---
+
+> ✨ *“Code is only as powerful as the problem it solves.”* ✨
