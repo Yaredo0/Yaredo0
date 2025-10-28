@@ -54,10 +54,10 @@ My journey into software engineering began with curiosity — *how ideas transfo
 ## 📬 Get in Touch  
 
 - [LinkedIn](https://www.linkedin.com/in/yared-aysheshim)  
-- [X (Twitter)](https://x.com/)  
-- [Instagram](https://www.instagram.com/)  
-- [Telegram](https://t.me/yourusername)  
-- 📧 **Email:** youremail@example.com  
+- [X (Twitter)](https://x.com/Jared_0o)  
+- [Instagram](https://www.instagram.com/jared_0o/)  
+- [Telegram](https://t.me/jaredo0)
+- 📧 **Email:** yaredaysheshims@gmail.com  
 
 ---
 
